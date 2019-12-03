@@ -37,6 +37,9 @@ def total_even_pairs(src)
   # this!
   
   total = 0 
+  num_pairs = 0 
+  while num_pairs < src.count do
+    
   
   
   
